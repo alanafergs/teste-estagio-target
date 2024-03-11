@@ -36,6 +36,7 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 ### Solução: [Fibonacci](https://github.com/alanafergs/teste-estagio-target/blob/main/scripts/isFibonacci.js)
 
 • Questão 3 de 5
+
 Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
    • O menor valor de faturamento ocorrido em um dia do mês;
    • O maior valor de faturamento ocorrido em um dia do mês;
@@ -47,6 +48,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 ### Solução: [Estatísticas de venda](https://github.com/alanafergs/teste-estagio-target/blob/main/scripts/billStatus.js)
 
 • Questao 4 de 5
+
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
    SP – R$67.836,43
@@ -59,6 +61,7 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 ### Solução: [Porcentagem por estado](https://github.com/alanafergs/teste-estagio-target/blob/main/scripts/stateShare.js)
 
 • Questão 5 de 5
+
 Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
